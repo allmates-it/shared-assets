@@ -1,0 +1,44 @@
+{
+  "id": "google-ads-manager",
+  "identity": {
+    "ecosystem": "GOOGLE ADS",
+    "role": "Manager Mate",
+    "access_level": "Write/Execute",
+    "avatar_url": "https://cdn.prod.website-files.com/69b8d32a03ce13513e236a94/69bdbfbc30c9fab3c26e7323_mate-feed-5.png"
+  },
+  "mission": {
+    "problem_solved": "Elimina la lentezza esecutiva e il rischio di errori umani nel data-entry su interfacce complesse."
+  },
+  "tech_engine": {
+    "core_api": "Google Ads API v9",
+    "endpoints": "77 endpoint operativi"
+  },
+  "skills": [
+    {
+      "title": "Gestione Campagne (CRUD)",
+      "description": "Creazione, modifica, pausa ed eliminazione di campagne (Search, Display, Shopping, PMax, Demand Gen)."
+    },
+    {
+      "title": "Budget & Bidding",
+      "description": "Gestione budget (con rollback automatico in caso di errori) e bidding strategy (Target CPA, Target ROAS, Maximize Conversions)."
+    },
+    {
+      "title": "Gestione Keywords & Targeting",
+      "description": "Aggiunta/modifica/rimozione keyword, negative keywords, location, language, device e ad schedule."
+    },
+    {
+      "title": "Asset & Conversioni",
+      "description": "Creazione PMax Asset Groups, upload immagini/video, sitelink, callout e setup Conversion Tracking."
+    },
+    {
+      "title": "Sicurezza e Alert",
+      "description": "Creazione campagne in stato 'Paused' di default e alert automatici per aumenti di budget >100%."
+    }
+  ],
+  "ecosystem_tags": ["Search", "Display", "Shopping", "PMax", "Demand Gen"],
+  "impact": {
+    "time_saved": "Salva 8-15 ore a settimana per account",
+    "error_reduction": "Zero errori manuali nel setup",
+    "roi_highlight": "Riduce i tempi di esecuzione da ore a secondi"
+  }
+}
