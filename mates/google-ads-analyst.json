@@ -1,0 +1,36 @@
+{
+  "id": "google-ads-analyst",
+  "identity": {
+    "ecosystem": "GOOGLE ADS",
+    "role": "Analyst Mate",
+    "access_level": "Read-Only",
+    "avatar_url": "https://cdn.prod.website-files.com/69b8d32a03ce13513e236a94/69bdbfbc0e5f9de7b3f914d6_Mate-feed-3.png"
+  },
+  "mission": {
+    "problem_solved": "Risolve la paralisi da analisi ed emorragia di budget su inefficienze non rilevate tempestivamente."
+  },
+  "tech_engine": {
+    "core_api": "Google Ads API v9",
+    "endpoints": "Read-Only Diagnostics"
+  },
+  "skills": [
+    {
+      "title": "Diagnostica real-time",
+      "description": "Scansione dell'intero ecosistema (Search, Shopping, PMax, YouTube) per individuare colli di bottiglia."
+    },
+    {
+      "title": "Audit Strutturale",
+      "description": "Valutazione di Quality Score, Ad Strength, architettura delle campagne e asset group."
+    },
+    {
+      "title": "Generazione Strategica Dual-Mode",
+      "description": "Elaborazione di due scenari di intervento: Opzione A (Conservativa) e Opzione B (Aggressiva)."
+    }
+  ],
+  "ecosystem_tags": ["Search", "Shopping", "PMax", "Demand Gen"],
+  "impact": {
+    "time_saved": "Salva 5-10 ore a settimana per account",
+    "error_reduction": "Reportistica e data-crunching automatizzati",
+    "roi_highlight": "Zero budget bruciato su inefficienze"
+  }
+}
