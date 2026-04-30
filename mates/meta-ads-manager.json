@@ -4,7 +4,7 @@
     "ecosystem": "META ADS",
     "role": "Manager Mate",
     "access_level": "Write/Execute",
-    "avatar_url": "https://cdn.prod.website-files.com/69b8d32a03ce13513e236a94/69bdbfbc0e5f9de7b3f914d6_Mate-feed-3.png"
+    "avatar_url": "https://allmates-it.github.io/shared-assets/images/meta-manager.png"
   },
   "mission": {
     "problem_solved": "Risolve il collo di bottiglia del setup multi-placement e l'oneroso data-entry per gli A/B test."
