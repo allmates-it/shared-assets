@@ -2,7 +2,7 @@
   "id": "google-ads-analyst",
   "identity": {
     "ecosystem": "GOOGLE ADS",
-    "role": "Analyst Mate",
+    "role": "Analyst",
     "access_level": "Read-Only",
     "avatar_url": "https://allmates-it.github.io/shared-assets/images/google-analyst.png"
   },
