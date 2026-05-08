@@ -2,7 +2,7 @@
   "id": "google-ads-manager",
   "identity": {
     "ecosystem": "GOOGLE ADS",
-    "role": "Manager Mate",
+    "role": "Manager",
     "access_level": "Write & Execute",
     "avatar_url": "https://allmates-it.github.io/shared-assets/images/google-manager.png"
   },
