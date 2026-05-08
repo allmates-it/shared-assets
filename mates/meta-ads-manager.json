@@ -2,7 +2,7 @@
   "id": "meta-ads-manager",
   "identity": {
     "ecosystem": "META ADS",
-    "role": "Manager Mate",
+    "role": "Manager",
     "access_level": "Write & Execute",
     "avatar_url": "https://allmates-it.github.io/shared-assets/images/meta-manager.png"
   },
