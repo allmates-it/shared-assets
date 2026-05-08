@@ -2,7 +2,7 @@
   "id": "tiktok-ads-manager",
   "identity": {
     "ecosystem": "TIKTOK ADV",
-    "role": "Manager Mate",
+    "role": "Manager",
     "access_level": "Write & Execute",
     "avatar_url": "https://allmates-it.github.io/shared-assets/images/tiktok-manager.png"
   },
