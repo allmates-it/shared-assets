@@ -15,25 +15,25 @@
   },
   "skills": [
     {
-      "title": "Gestione Campagne End-to-End",
-      "description": "Creazione, modifica, pausa ed eliminazione di campagne complesse (Search, Display, Shopping, PMax, Demand Gen)."
+      "title": "Gestione Campagne End-to-End - Sicurezza",
+      "description": "Creazione, modifica, pausa ed eliminazione di campagne complesse (Search, Display, Shopping, PMax, Demand Gen). Le Campagne vengono generate in stato 'Paused' per approvazione umana."
     },
     {
-      "title": "Budget & Bidding Sicuro",
+      "title": "Budget & Bidding - Massimo Controllo",
       "description": "Gestione avanzata di tCPA, tROAS e Maximize Conversions. Sistema di rollback automatico in caso di errori di setup."
     },
     {
-      "title": "Keywords & Targeting",
+      "title": "Keywords & Targeting - Puntualità",
       "description": "Aggiunta massiva di keyword, gestione liste negative condivise, location, language, device e ad schedule."
     },
     {
-      "title": "Asset & Protocolli di Sicurezza",
-      "description": "Creazione PMax Asset Groups e setup Conversion Tracking. Creazione default in stato 'Paused' per approvazione umana."
+      "title": "Upload Creatività - Massima Efficienza",
+      "description": "Creazione Asset Groups con caricamento effettivo di immagini, video, sitelink e callout."
     }
   ],
   "ecosystem_tags": [
     "CRUD Operations",
-    "Asset Groups",
+    "Asset Upload",
     "Bidding Automation",
     "Rollback Security"
   ],
