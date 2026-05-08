@@ -2,7 +2,7 @@
   "id": "tiktok-ads-analyst",
   "identity": {
     "ecosystem": "TIKTOK ADV",
-    "role": "Analyst Mate",
+    "role": "Analyst",
     "access_level": "Read-Only",
     "avatar_url": "https://allmates-it.github.io/shared-assets/images/tiktok-analyst.png"
   },
