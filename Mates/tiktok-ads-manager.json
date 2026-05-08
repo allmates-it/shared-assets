@@ -1,0 +1,45 @@
+{
+  "id": "tiktok-ads-manager",
+  "identity": {
+    "ecosystem": "TIKTOK ADV",
+    "role": "Manager Mate",
+    "access_level": "Write & Execute",
+    "avatar_url": "https://allmates-it.github.io/shared-assets/images/tiktok-manager.png"
+  },
+  "mission": {
+    "problem_solved": "Solleva dall'onere di gestire massivamente account, campagne e l'altissima 'creative fatigue' tipica della piattaforma."
+  },
+  "tech_engine": {
+    "core_api": "TikTok Marketing API",
+    "endpoints": "Write Endpoints"
+  },
+  "skills": [
+    {
+      "title": "Creative & AI Optimization",
+      "description": "Bulk upload, Smart Creative (generazione varianti automatica), Spark Ads (organico in ads) e Smart Performance Campaigns."
+    },
+    {
+      "title": "Gestione Campagne CRUD",
+      "description": "Setup completo dell'alberatura, bidding (lowest cost, cost cap), posizionamenti e schedulazione."
+    },
+    {
+      "title": "Audience Automation",
+      "description": "Sync automatico dei dati da CSV/CRM, setup programmatico di Lookalike e Custom Audience."
+    },
+    {
+      "title": "Business Center & Reporting",
+      "description": "Creazione e gestione massiva di ad account, estrazione dati per dashboard e setup Server-to-Server tracking (CAPI)."
+    }
+  ],
+  "ecosystem_tags": [
+    "Spark Ads",
+    "Bulk Upload",
+    "Audience Sync",
+    "Smart Creative"
+  ],
+  "impact": {
+    "time_saved": "Automazione degli A/B test massivi",
+    "error_reduction": "Gestione centralizzata e sicura",
+    "roi_highlight": "Scala le operations senza assunzioni"
+  }
+}

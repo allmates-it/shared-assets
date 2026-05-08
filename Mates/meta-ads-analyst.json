@@ -1,0 +1,46 @@
+{
+  "id": "meta-ads-analyst",
+  "identity": {
+    "ecosystem": "META ADS",
+    "role": "Analyst Mate",
+    "access_level": "Read-Only",
+    "avatar_url": "https://allmates-it.github.io/shared-assets/images/meta-analyst.png"
+  },
+  "mission": {
+    "problem_solved": "Colma il gap tra mole di dati e decisioni repentine; blocca il budget bruciato su creative in 'fatigue'."
+  },
+  "tech_engine": {
+    "core_api": "Meta Marketing API v24.0",
+    "endpoints": "Insights Endpoints"
+  },
+  "skills": [
+    {
+      "title": "Performance Diagnosis (Micro/Macro)",
+      "description": "Analisi del ROAS di portfolio incrociata con metriche micro come Hook Rate, Thumb-Stop Ratio e CVR sulla landing page."
+    },
+    {
+      "title": "Discovery & Breakdowns",
+      "description": "Mapping dell'account (CBO/ABO, Pixel, CAPI) e segmentazione avanzata per età, genere, placement (Feed/Reels) e device."
+    },
+    {
+      "title": "Rilevamento Anomalie",
+      "description": "Identificazione immediata di creative fatigue, CPM spike, drop di delivery e audience overlap."
+    },
+    {
+      "title": "Strategia Post-iOS 14.5",
+      "description": "Proposte di intervento (Conservativo o Aggressivo) studiate per performare in scenari di tracciamento cookieless."
+    }
+  ],
+  "ecosystem_tags": [
+    "Facebook",
+    "Instagram",
+    "Reels",
+    "Creative Fatigue",
+    "CAPI"
+  ],
+  "impact": {
+    "time_saved": "Salva 6-12 ore a settimana per account",
+    "error_reduction": "Prevenzione tempestiva picchi CPM",
+    "roi_highlight": "Decisioni data-driven in pochi minuti"
+  }
+}

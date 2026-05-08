@@ -1,0 +1,45 @@
+{
+  "id": "tiktok-ads-analyst",
+  "identity": {
+    "ecosystem": "TIKTOK ADV",
+    "role": "Analyst Mate",
+    "access_level": "Read-Only",
+    "avatar_url": "https://allmates-it.github.io/shared-assets/images/tiktok-analyst.png"
+  },
+  "mission": {
+    "problem_solved": "Illumina il 'black box' strategico, fornendo trasparenza sui competitor e sui trend creativi."
+  },
+  "tech_engine": {
+    "core_api": "TikTok Commercial Content API",
+    "endpoints": "Discovery Endpoints"
+  },
+  "skills": [
+    {
+      "title": "Reverse Engineering Competitor",
+      "description": "Estrazione dell'anatomia delle ads avversarie: asset creativi, targeting demografico, reach effettiva e motivi di rifiuto/policy."
+    },
+    {
+      "title": "Ad Discovery Globale",
+      "description": "Ricerca massiva di campagne a pagamento attive filtrando per keyword, advertiser o paese specifico."
+    },
+    {
+      "title": "Analisi Trend",
+      "description": "Generazione di report temporali sui volumi di pubblicazione nei vari mercati per anticipare le wave creative."
+    },
+    {
+      "title": "Tracking Influencer",
+      "description": "Monitoraggio dei contenuti commerciali organici (partnership) dei creator in area EEA."
+    }
+  ],
+  "ecosystem_tags": [
+    "Reverse Engineering",
+    "Trend Analysis",
+    "Policy Check",
+    "Creator Tracking"
+  ],
+  "impact": {
+    "time_saved": "Azzera i tempi di ricerca manuale",
+    "error_reduction": "Riduzione ban per violazione policy",
+    "roi_highlight": "Abbassa il rischio di flop creativo nei test"
+  }
+}

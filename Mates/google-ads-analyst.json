@@ -1,0 +1,46 @@
+{
+  "id": "google-ads-analyst",
+  "identity": {
+    "ecosystem": "GOOGLE ADS",
+    "role": "Analyst Mate",
+    "access_level": "Read-Only",
+    "avatar_url": "https://allmates-it.github.io/shared-assets/images/google-analyst.png"
+  },
+  "mission": {
+    "problem_solved": "Risolve la paralisi da analisi ed emorragia di budget su inefficienze non rilevate tempestivamente."
+  },
+  "tech_engine": {
+    "core_api": "Google Ads API v9",
+    "endpoints": "Read-Only Endpoints"
+  },
+  "skills": [
+    {
+      "title": "Diagnostica Real-Time",
+      "description": "Scansione dell'intero ecosistema (Search, Shopping, PMax, Demand Gen, YouTube) per individuare colli di bottiglia e cannibalizzazione PMax vs Brand."
+    },
+    {
+      "title": "Audit Strutturale",
+      "description": "Valutazione profonda di Quality Score, Ad Strength, architettura delle campagne e salute degli asset group."
+    },
+    {
+      "title": "Generazione Strategica Dual-Mode",
+      "description": "Elaborazione di due scenari di intervento per ogni problema: Opzione A (Conservativa - ottimizzazioni incrementali) e Opzione B (Aggressiva - ristrutturazioni)."
+    },
+    {
+      "title": "Preparazione Execution",
+      "description": "Traduzione automatica della strategia in prompt tecnici pronti per essere passati al Mate esecutivo."
+    }
+  ],
+  "ecosystem_tags": [
+    "Search",
+    "Performance Max",
+    "Shopping",
+    "Demand Gen",
+    "Smart Bidding"
+  ],
+  "impact": {
+    "time_saved": "Salva 5-10 ore a settimana per account",
+    "error_reduction": "Zero budget bruciato su inefficienze",
+    "roi_highlight": "Reportistica data-crunching automatizzata"
+  }
+}

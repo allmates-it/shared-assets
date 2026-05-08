@@ -1,0 +1,45 @@
+{
+  "id": "google-ads-manager",
+  "identity": {
+    "ecosystem": "GOOGLE ADS",
+    "role": "Manager Mate",
+    "access_level": "Write & Execute",
+    "avatar_url": "https://allmates-it.github.io/shared-assets/images/google-manager.png"
+  },
+  "mission": {
+    "problem_solved": "Elimina la lentezza esecutiva e il rischio di errori umani nel data-entry su interfacce complesse."
+  },
+  "tech_engine": {
+    "core_api": "Google Ads API v9",
+    "endpoints": "77 Write Endpoints"
+  },
+  "skills": [
+    {
+      "title": "Gestione Campagne End-to-End",
+      "description": "Creazione, modifica, pausa ed eliminazione di campagne complesse (Search, Display, Shopping, PMax, Demand Gen)."
+    },
+    {
+      "title": "Budget & Bidding Sicuro",
+      "description": "Gestione avanzata di tCPA, tROAS e Maximize Conversions. Sistema di rollback automatico in caso di errori di setup."
+    },
+    {
+      "title": "Keywords & Targeting",
+      "description": "Aggiunta massiva di keyword, gestione liste negative condivise, location, language, device e ad schedule."
+    },
+    {
+      "title": "Asset & Protocolli di Sicurezza",
+      "description": "Creazione PMax Asset Groups e setup Conversion Tracking. Creazione default in stato 'Paused' per approvazione umana."
+    }
+  ],
+  "ecosystem_tags": [
+    "CRUD Operations",
+    "Asset Groups",
+    "Bidding Automation",
+    "Rollback Security"
+  ],
+  "impact": {
+    "time_saved": "Salva 8-15 ore a settimana per account",
+    "error_reduction": "Zero errori di data-entry e budget",
+    "roi_highlight": "Esecuzione passata da ore a secondi"
+  }
+}
